@@ -1,0 +1,10 @@
+{
+  "name": "esp32pm",
+  "version": "0.0.0",
+  "description": "A package manager of github.com/esp32repo",
+  "main": "index.js",
+  "repository": "https://github.com/esp32repo/esp32pm",
+  "author": "Misha Marinenko <a0x77@icloud.com>",
+  "license": "MIT",
+  "private": false
+}
